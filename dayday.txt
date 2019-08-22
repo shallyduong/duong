@@ -1,6 +1,6 @@
-duong1|animals|en||deptrai|https://www.facebook.com/1736363066598724/videos/482115902579866/|0|0|allow|0
-duong2|animals|en||deptrai|https://www.facebook.com/1736363066598724/videos/483725769026623/|0|0|allow|0
-duong3|animals|en||deptrai|https://www.facebook.com/1736363066598724/videos/801773170224378/|0|0|allow|0
-duong4|animals|en||deptrai|https://www.facebook.com/1736363066598724/videos/1229988030513900/|0|0|allow|0
-duong5|animals|en||deptrai|https://www.facebook.com/1736363066598724/videos/733819147055797/|0|0|allow|0
-duong6|animals|en||deptrai|https://www.facebook.com/1736363066598724/videos/887813358240717/|0|0|allow|0
+duong1|animals|en|||https://www.facebook.com/1736363066598724/videos/482115902579866/|0|0|allow|0
+duong2|animals|en|||https://www.facebook.com/1736363066598724/videos/483725769026623/|0|0|allow|0
+duong3|animals|en|||https://www.facebook.com/1736363066598724/videos/801773170224378/|0|0|allow|0
+duong4|animals|en|||https://www.facebook.com/1736363066598724/videos/1229988030513900/|0|0|allow|0
+duong5|animals|en|||https://www.facebook.com/1736363066598724/videos/733819147055797/|0|0|allow|0
+duong6|animals|en|||https://www.facebook.com/1736363066598724/videos/887813358240717/|0|0|allow|0
